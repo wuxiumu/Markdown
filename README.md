@@ -1,5 +1,9 @@
 我就是看这篇文章入门的，感觉很不错，于是把精华部分整理一下，做一个备份，方便以后自己查看，同时也可以和大家分享
 
+[github牛人收集的Markdown信息](https://github.com/younghz/Markdown)
+
+[github本页面地址](https://github.com/wuxiumu/Markdown)
+
 ## <a name="index"/>目录</a>
 * [横线](#line)
 * [标题](#title)
@@ -151,7 +155,7 @@ ___斜粗体2___
 #### 第一种
 
 [![head]](http://ms.meiyoufan.com/)
-[head]:https://github.com/wuxiumu/PHP-ASCII-IMG/blob/master/fourp.png "点击图片进入我的博客"
+[head]:http://ms.meiyoufan.com/public/img/dsgo.gif "点击图片进入我的博客"
 
 #### 第二种
 [![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)
